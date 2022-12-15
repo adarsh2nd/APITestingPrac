@@ -2,7 +2,7 @@ package pojo;
 
 public class DBClass {
 	
-	public void newMethod() {
+	public void newMethod1() {
 		
 	}
 
